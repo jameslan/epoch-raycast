@@ -11,7 +11,7 @@
   "license": "MIT",
   "commands": [
     {
-      "name": "convert",
+      "name": "convertCommand",
       "title": "epoch",
       "description": "Convert between epoch time (unix timestamp) and human readable time",
       "mode": "view"
